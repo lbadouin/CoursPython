@@ -60,3 +60,6 @@
 * Exemples de notebook interactif
 
 ## Packages et modules : réutiliser son code
+
+* importer un module ou une partie d'un module
+* Créer ses propres modules
