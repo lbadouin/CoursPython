@@ -8,6 +8,7 @@
 ## Les comportements 
 
 * Qu'est-ce qu'un comportement en python
+* Les fonctions spéciales en python
 
 
 ## Les générateurs
