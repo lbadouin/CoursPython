@@ -8,6 +8,7 @@ DUMMY_FILES = [...]
 @pytest.fixture()
 def test_folder():
     # Créer un répertoire de test, créer des fichiers dans ce répertoire de test, certains plus anciens que 10 jours, d'autres plus récent
+    folder = "my test folder path"
     (...)
     yield folder
 
